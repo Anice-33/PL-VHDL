@@ -1,0 +1,13 @@
+# Quartus & ModelSim temporary files
+*.wlf
+*.vcd
+*.sdo
+*.vho
+*.bak
+*.rpt
+*.summary
+db/
+incremental_db/
+simulation/modelsim/work/
+output_files/
+
